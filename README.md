@@ -1,6 +1,6 @@
 # Rosti Sentry
 
-This is Rosti's custom Sentry image which adds support for Postgresql's SS required feature.
+This is Rosti's custom Sentry image which adds support for Postgresql's SSL required feature.
 
 **Important!: Don't forget to update version number in Dockerfile and Makefile before build.**
 
